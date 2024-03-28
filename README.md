@@ -1,6 +1,6 @@
 ### Olá Mundo! Sou o Pedro 👋
 
-- 🔭 Sou estudante de ADS
+- 🔭 Fazendo Engenharia de Software
 - 🌱 Atualmente avançando em JavaScript, HTML e CSS
 - 📫 Email: pedrownsmcpe@gmail.com
 - 😄 Pronouns: ele/dele
