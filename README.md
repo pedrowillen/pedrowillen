@@ -2,7 +2,7 @@
 
 - 🔭 Fazendo Engenharia de Software
 - 🌱 Atualmente avançando em JavaScript, HTML e CSS
-- 📫 Email: pedrownsmcpe@gmail.com
+- 📫 Email: contact@pedrowillen.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
