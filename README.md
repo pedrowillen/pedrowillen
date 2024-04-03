@@ -1,6 +1,6 @@
 ### Olá Mundo! Sou o Pedro 👋
 
-- 🔭 Fazendo Engenharia de Software
+- 🔭 Cursando Engenharia de Software
 - 🌱 Atualmente avançando em JavaScript, HTML e CSS
 - 📫 Email: contact@pedrowillen.com
 - 😄 Pronouns: ele/dele
