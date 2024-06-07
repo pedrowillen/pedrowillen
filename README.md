@@ -1,7 +1,7 @@
 ### Hello, World! I'm Pedro 👋
 
 - 🔭 Software Engineering student.
-- 🌱 JavaScript, Java, C++, C#, Python.
+- 🌱 JavaScript, TypeScript, Java, C++, C#, Python.
 - 📫 E-mail: contact@pedrowillen.com
 
 <div align="center">
