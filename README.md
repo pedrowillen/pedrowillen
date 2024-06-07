@@ -1,6 +1,7 @@
 ### Hello, World! I'm Pedro 👋
 
 - 🔭 Software Engineering student.
+- 💻 Full-stack developer.
 - 🌱 JavaScript, TypeScript, Java, C++, C#, Python.
 - 📫 E-mail: contact@pedrowillen.com
 
