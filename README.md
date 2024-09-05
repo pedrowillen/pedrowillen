@@ -2,7 +2,7 @@
 
 - 🔭 Software Engineering student.
 - 💻 Full-stack developer.
-- 🌱 JavaScript, TypeScript, Java, C++, C#, Python.
+- 🌱 JavaScript, TypeScript, Java, C#, Python.
 - 📫 E-mail: contact@pedrowillen.com
 
 <div align="center">
